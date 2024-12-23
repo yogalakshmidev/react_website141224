@@ -1,0 +1,17 @@
+.homeHeader{
+  display: flex;
+  padding: 10px 100px;
+  align-items: center;
+  justify-content: space-between;
+  height: 100vh;
+  background-image: url('../assets/shoppingbg.jpeg');
+  background-size: cover;
+}
+/* .btnhomeHeader{
+  display: flex;
+  gap: 10px;
+} */
+.boldText{
+  font-weight: 700;
+  font-size: larger
+}
